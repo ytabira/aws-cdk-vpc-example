@@ -1,0 +1,9 @@
+{
+  "app": "node index.js",
+  "context": {
+    "availability-zones:422351357158:ap-northeast-1": [
+      "ap-northeast-1b",
+      "ap-northeast-1c"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "aws-cdk-vpc-sample",
+  "version": "1.0.0",
+  "description": "## 環境",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-cdk/aws-ec2": "^0.8.2",
+    "@aws-cdk/cdk": "^0.8.2",
+    "@types/node": "^10.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ytabira/aws-cdk-vpc-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ytabira/aws-cdk-vpc-sample/issues"
+  },
+  "homepage": "https://github.com/ytabira/aws-cdk-vpc-sample#readme"
+}
